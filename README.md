@@ -7,7 +7,12 @@ You can see the ⭐[demo](https://maxjn-netflix-clone.vercel.app/) for better un
 ## Technologies
 
 - React
-- **Main Packages:** react-player react-router-dom axios @mui
+- Material UI
+- **Main Packages:**
+- react-player
+- react-router-dom
+- axios
+- @mui
 
 
 
