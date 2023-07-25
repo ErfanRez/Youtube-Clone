@@ -2,7 +2,7 @@
 
 This is a practical front-end **Youtube Clone** using [React.js](https://reactjs.org//) latest features bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can see the ⭐[demo](https://maxjn-netflix-clone.vercel.app/) for better understanding.
+You can see the ⭐[demo](https://erfanrz-youtube-clone.vercel.app/) for a better understanding.
 
 ## Technologies
 
