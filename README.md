@@ -8,6 +8,7 @@ You can see the ⭐[demo](https://erfanrz-youtube-clone.vercel.app/) for a bette
 
 - React
 - Material UI
+- RapidAPI
 - **Main Packages:**
 - react-player
 - react-router-dom
